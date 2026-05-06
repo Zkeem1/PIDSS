@@ -259,11 +259,6 @@ SEOLS-Iteration-4/
 
 ---
 
-## Screenshots
-
-> *[Add screenshots of key pages: Landing page, Dashboard, Product Catalog, Schedule Form, Quote Generator]*
-
----
 
 ## Future Enhancements
 
@@ -279,15 +274,7 @@ SEOLS-Iteration-4/
 
 ## License
 
-This project was developed for academic purposes at Fanshawe College as part of the SEOLS (Software Engineering for Open-Source and Linux Systems) course.
-
----
-
-## Contact
-
-**Developer:** Temar Lewis  
-**GitHub:** [@Zkeem1](https://github.com/Zkeem1)  
-**Email:** temarlewis@yahoo.com
+This project was developed for academic purposes at The University of the West Indies as part of the SEOLS (Software Engineering for Open-Source and Linux Systems) course.
 
 ---
 
