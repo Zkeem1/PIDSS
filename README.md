@@ -257,6 +257,27 @@ SEOLS-Iteration-4/
 └── README.md
 ```
 
+## Screenshots
+
+### Landing Page
+![Welcome Page](screenshots/welcome.png)
+*The piDSS landing page with services overview, benefits, and pricing tiers*
+
+### User Authentication
+![Registration](screenshots/register.png)
+*Clean registration form powered by Laravel Breeze with Tailwind CSS*
+
+### Customer Dashboard
+![Dashboard](screenshots/dashboard.png)
+*Role-based customer dashboard with personalized welcome and quick navigation*
+
+### Product Catalog
+![Product Catalog](screenshots/catalog.png)
+*Searchable, filterable product catalog with pagination — 32+ PV system components*
+
+### PV System Configuration
+![PV System Builder](screenshots/pv-system.png)
+*Dynamic PV system builder with product selection, energy calculations, and budget tracking*
 ---
 
 
